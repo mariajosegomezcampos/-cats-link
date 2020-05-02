@@ -1,0 +1,270 @@
+﻿.e05_contenido
+{
+	position:relative;
+	float:right;
+	width:281px;
+	top:10px;
+	left:0px;
+	padding:0px;
+	margin:0px 15px 0px auto;
+	background-color:#edefef;
+}
+
+.e05_contenidoInicio
+{
+	position:relative;
+	width:281px;
+	height:11px;
+	padding:0px;
+	margin:0px;
+	background:url(../../imagenes/pub/contenidosTxtDescripFondo01.gif) no-repeat top left;
+}
+
+.e05_contenidoTexto
+{
+	position:relative;
+	width:250px;
+	padding:0px;
+	margin:0px;
+	margin:0px auto 15px auto;
+	text-align:justify;
+	font-size:12px;
+	font-family:Trebuchet MS;
+	line-height:8px;
+	list-style:none;
+}
+
+.e05_contenidoTexto02
+{
+	position:relative;
+	width:700px;
+	padding:0px;
+	margin:0px;
+	margin:0px auto 15px auto;
+	text-align:justify;
+	font-size:12px;
+	font-family:Trebuchet MS;
+	line-height:16px;
+	list-style:none;
+}
+.e05_contenidoFin
+{
+	position:relative;
+	width:281px;
+	height:11px;
+	padding:0px;
+	margin:0px;
+	background:url(../../imagenes/pub/contenidosTxtDescripFondo02.gif) no-repeat top left;
+}
+
+.e05_contenidoInicio03
+{
+	position:relative;
+	width:700px;
+	height:11px;
+	background:url(../../imagenes/pub/contenidosTxtDescripFondo03.gif) no-repeat top left;
+}
+
+.e05_contenidoTexto03
+{
+	position:relative;
+	width:620px;
+	text-align:justify;
+	line-height:1.1em;
+	font-size:1.1em;
+	background-color:#ddd;
+	border:dotted 1px #666666;
+}
+
+.e05_contenidoFin03
+{
+	position:relative;
+	width:700px;
+	height:11px;
+
+	background:url(../../imagenes/pub/contenidosTxtDescripFondo04.gif) no-repeat top left;
+}
+
+.e05_listado
+{
+	position:relative;
+	float:left;
+	width:400px;
+	top:50px;
+	left:0px;
+	padding:0px;
+	margin:0px auto 0px 10px;
+    background-color:#fff;
+    text-align:left;
+}
+
+ul.e05_categorias
+{
+	list-style: none;
+	padding:0px;
+	width:410px;
+	margin:0px auto 0px 10px;
+	top:0px;
+	float:left;
+}
+ul.e05_categorias li 
+{
+	list-style: none;
+	padding:5px 0px 0px 0px;
+	margin:0px;
+	display: inline;
+	float:left;
+	width:410px;
+	text-align:left;
+	font-size:1.8em;
+	font-weight:bold;
+	line-height:1.1em;
+}
+ul.e05_categorias ul.e05_fila
+{
+	list-style: none;
+	padding:0px;
+	width:380px;
+	margin:0px auto 0px 0px;
+	top:0px;
+	float:left;
+}
+ul.e05_categorias ul.e05_fila li 
+{
+	list-style: none;
+	padding:5px 0px 0px 0px;
+	margin:0px;
+	display: inline;
+	float:left;
+	width:375px;
+	text-align:left;
+	font-size:0.6em;
+	font-weight:normal;
+	line-height:12px;
+}
+.e05_butazulOff02
+{
+	background-image: url(../../imagenes/pub/botGuardarAzul01.gif);
+	width:99px;
+	height:34px;
+	border:0px;
+	color: white;
+	font-weight:bolder;
+	z-index:100;
+	line-height:28px;
+	cursor:pointer;
+}
+.e05_butPlomoOn
+{
+	background-image: url(../../imagenes/pub/botGrabar03.gif);
+	width:86px;
+	height:22px;
+	border:0px;
+	color: #000000;
+	z-index:100;
+	line-height:15px;
+	cursor:pointer;
+}
+.e05_butPlomoOff
+{
+	background-image: url(../../imagenes/pub/botGrabar03.gif);
+	width:86px;
+	height:22px;
+	border:0px;
+	color: #000000;
+	font-weight:bolder;
+	z-index:100;
+	line-height:15px;
+	cursor:pointer;
+}
+
+.e05_butPlomo01On
+{
+	background-image: url(../../imagenes/pub/botGrabar04.gif);
+	width:153px;
+	height:22px;
+	border:0px;
+	color: #000000;
+	z-index:100;
+	line-height:15px;
+	cursor:pointer;
+}
+.e05_butPlomo01Off
+{
+	background-image: url(../../imagenes/pub/botGrabar04.gif);
+	width:153px;
+	height:22px;
+	border:0px;
+	color: #000000;
+	font-weight:bolder;
+	z-index:100;
+	line-height:15px;
+	cursor:pointer;
+}
+ul.e05_form2ColumnasPub
+{
+	list-style: none;
+	padding:0px;
+	margin:0px auto 0px auto;
+}
+ul.e05_form2ColumnasPub li 
+{
+	list-style: none;
+	padding:0px 0px 0px 4px;
+	margin:0px 0px 0px 0px;
+	display: inline;
+	float:left;
+	width:50%;
+	text-align:left;
+	min-height:25px;
+	line-height:25px;
+	background-color:#efefef;
+}
+ul.e05_form2ColumnasPub li.adjuntar01 
+{
+	list-style: none;
+	padding:0px 0px 0px 4px;
+	margin:0px 0px 0px 0px;
+	display: inline;
+	float:left;
+	width:515px;
+	text-align:left;
+	min-height:25px;
+	line-height:25px;
+	background-color:#fff;
+}
+ul.e05_form2ColumnasPub li.adjuntar02
+{
+	list-style: none;
+	padding:10px 0px 0px 4px;
+	margin:0px 0px 0px 0px;
+	display: inline;
+	float:left;
+	width:515px;
+	text-align:center;
+	min-height:25px;
+	line-height:25px;
+	background-color:#fff;
+}
+
+.e05_divDetalleFichaPub
+{
+    width:440px; 
+    float:left; 
+    text-align:left; 
+    background-color:#f3f3f3; 
+    padding:5px;
+}
+.e05_divDetalleFichaPub2
+{
+    width:510px; 
+    float:left; 
+    text-align:left; 
+    background-color:#efefef; 
+    padding:5px;
+}
+
+.e05_divAlertaPub01
+{	
+	width:150px; height:auto; line-height:12px; border:solid 1px red; text-align:left;
+}

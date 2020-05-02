@@ -1,0 +1,59 @@
+﻿.e80_pant01Izq
+{
+	position:relative;
+	float:left;
+	width:320px;
+	top:20px;
+	left:50px;
+	padding:0px;
+	margin:0px auto 0px auto;
+}
+.e80_pant01Izq2
+{
+	position:relative;
+	float:left;
+	width:220px;
+	top:20px;
+	left:50px;
+	padding:0px;
+	margin:0px auto 0px auto;
+}
+.e80_pant01Der
+{
+	position:relative;
+	float:right;
+	width:520px;
+	top:20px;
+	right:50px;
+	padding:0px;
+	margin:0px auto 0px auto;
+}
+
+.e80_pant02Centro
+{
+	position:relative;
+	width:938px;
+	top:20px;
+	padding:0px;
+	margin:0px auto 0px auto;
+}
+
+.e80_pant03Centro
+{
+	position:relative;
+	width:750px;
+	top:20px;
+	padding:0px;
+	margin:0px auto 0px auto;
+}
+
+.e80_pant01IzqGrilla
+{
+	position:relative;
+	float:left;
+	width:320px;
+	top:10px;
+	left:10px;
+	padding:0px;
+	margin:0px auto 0px auto;
+}

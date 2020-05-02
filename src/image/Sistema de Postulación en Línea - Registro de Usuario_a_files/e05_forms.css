@@ -1,0 +1,463 @@
+﻿ul.e05_form1Columna
+{
+
+	padding:0px;
+	margin:0px auto 0px auto;
+}
+ul.e05_form1Columna li 
+{
+
+	padding:0px;
+	margin:0px;
+	display: inline;
+	float:left;
+	min-height:40px;
+	width:100%;
+	text-align:left;
+}
+ul.e05_form2Columnas
+{
+	list-style: none;
+	padding:0px;
+	margin:0px auto 0px auto;
+}
+ul.e05_form2Columnas li 
+{
+	list-style: none;
+	padding:0px 1% 0px 0px;
+	margin:5px 0px 0px 0px;
+	display: inline;
+	float:left;
+	width:49%;
+	text-align:left;
+	min-height:40px;
+}
+ul.e05_form2Columnas li.e05_segundoLi
+{
+	list-style: none;
+	padding:0px 0px 0px 1%;
+	margin:5px 0px 0px 0px;
+	display: inline;
+	float:left;
+	width:49%;
+	text-align:left;
+	min-height:40px;
+}
+
+ul.e05_form2Columnas ul.e05_form1Columna
+{
+	list-style: none;
+	padding:0px;
+	margin:0px auto 0px auto;
+}
+ul.e05_form2Columnas ul.e05_form1Columna li 
+{
+	list-style: none;
+	padding:0px;
+	margin:0px;
+	display: inline;
+	float:left;
+	min-height:40px;
+	width:100%;
+	text-align:left;
+}
+
+ul.e05_form2Columnas2
+{
+	list-style: none;
+	padding:0px;
+	margin:0px auto 0px auto;
+}
+ul.e05_form2Columnas2 li 
+{
+	list-style: none;
+	padding:0px 1% 0px 0px;
+	margin:5px 0px 0px 0px;
+	display: inline;
+	float:left;
+	width:49%;
+	text-align:left;
+	min-height:40px;
+}
+ul.e05_form2Columnas2 li.e05_segundoLi
+{
+	list-style: none;
+	padding:0px 0px 0px 1%;
+	margin:5px 0px 0px 0px;
+	display: inline;
+	float:left;
+	width:49%;
+	text-align:left;
+	min-height:40px;
+}
+
+ul.e05_form2Columnas2 ul.e05_form1Columna
+{
+	list-style: none;
+	padding:0px;
+	margin:0px auto 0px auto;
+}
+ul.e05_form2Columnas2 ul.e05_form1Columna li 
+{
+	list-style: none;
+	padding:0px;
+	margin:0px;
+	display: inline;
+	float:left;
+	min-height:40px;
+	width:100%;
+	text-align:left;
+}
+
+/* Campos de formulario */
+label
+{  
+	display: inline;
+	font-weight:normal;
+	font-size:1em;
+	color:#333;
+	cursor: pointer; 
+}
+
+ul.formCbRb li label{  
+	display: inline;
+	font-weight:bold;
+	color:#666666;
+	cursor: pointer; 
+}
+input
+{
+	background : #EFEFEF;
+	color : #273178;
+	font : normal 1.2em Tahoma, Verdana, sans-serif;
+	border-top: 1px solid #333333;
+	border-bottom: 1px solid #999999;
+	border-left: 1px solid #666666;
+	border-right: 1px solid #999999;
+	height:15px;
+	width: 100%;
+	margin:0px;
+	padding:0px;
+}
+select
+{
+	background : #EFEFEF;
+	color : #273178;
+	font : normal 1.2em Tahoma, Verdana, sans-serif;
+	border-top: 1px solid #333333;
+	border-bottom: 1px solid #999999;
+	border-left: 1px solid #666666;
+	border-right: 1px solid #999999;
+	height:20px;
+	width: 100%;
+}
+textarea
+{
+	background : #EFEFEF;
+	color : #273178;
+	font : normal 1.2em Tahoma, Verdana, sans-serif;
+	border-top: 1px solid #333333;
+	border-bottom: 1px solid #999999;
+	border-left: 1px solid #666666;
+	border-right: 1px solid #999999;
+	width: 100%;
+}
+.inputCheckBox input
+{
+	background-color:Transparent;
+	color : #273178;
+	font : normal 1.2em Tahoma, Verdana, sans-serif;
+	width:20px;
+	border:0px;
+	height:15px;
+}
+
+.inputRadio input
+{
+	background-color:Transparent;
+	color : #273178;
+	font : normal 1.2em Tahoma, Verdana, sans-serif;
+	width:20px;
+	border:0px;
+	height:15px;
+}
+
+
+.e05_campoFormulario
+{
+	background : #EFEFEF;
+	color : #273178;
+	font : normal 1.2em Tahoma, Verdana, sans-serif;
+	border-top: 1px solid #333333;
+	border-bottom: 1px solid #999999;
+	border-left: 1px solid #666666;
+	border-right: 1px solid #999999;
+	height:15px;
+}
+.e05_campoFormularioFocus
+{
+	background : #ffffcc;
+	color : #115D9B;
+	font : normal 1.2em Tahoma, Verdana, sans-serif;
+	border-top: 1px solid #115D9B;
+	border-bottom: 1px solid #115D9B;
+	border-left: 1px solid #115D9B;
+	border-right: 1px solid #115D9B;
+	height:15px;
+}
+
+.e05_campoFormulario2
+{
+	background : #efefef;
+	color : #273178;
+	font : normal 1.2em Tahoma, Verdana, sans-serif;
+	border:1px solid #8f8f8f;
+	height:15px;
+}
+.e05_campoFormularioFocus2
+{
+	background : #ffffcc;
+	color : #115D9B;
+	font : normal 1.2em Tahoma, Verdana, sans-serif;
+	border:1px solid #8f8f8f;
+	height:15px;
+}
+.e05_campoformularioNaranja
+{
+	background : #FFF3D8;
+	color : #273178;
+	font : normal 1.2em Tahoma, Verdana, sans-serif;
+	border-top: 1px solid #C7AD87;
+	border-bottom: 1px solid #C7AD87;
+	border-left: 1px solid #C7AD87;
+	border-right: 1px solid #C7AD87;
+	height:15px;
+}
+.e05_campoformularioNaranjaFocus
+{
+	background : #ffffff;
+	color : #115D9B;
+	font : normal 1.2em Tahoma, Verdana, sans-serif;
+	border-top: 1px solid #115D9B;
+	border-bottom: 1px solid #115D9B;
+	border-left: 1px solid #115D9B;
+	border-right: 1px solid #115D9B;
+	height:15px;
+}
+
+.e05_butOff01
+{
+	background-image: url(../imagenes/botones/botOff01.gif);
+	width:103px;
+	height:28px;
+	border:0px;
+	color: white;
+	font-weight:bolder;
+	z-index:100;
+	line-height:28px;
+}
+.e05_butOff01_pequeno
+{
+	background-image: url(../imagenes/botones/botOff01.gif);
+	background-size: contain;
+	width:95px;
+	height:28px;
+	border:0px;
+	color: white;
+	font-weight:bolder;
+	z-index:100;
+	line-height:28px;
+}
+.e05_butazulOff01
+{
+	background-image: url(../imagenes/botGuardarAzul.gif);
+	width:99px;
+	height:34px;
+	border:0px;
+	color: white;
+	font-weight:bolder;
+	z-index:100;
+	line-height:28px;
+}
+.e05_butOn01
+{
+	background-image: url(../imagenes/botones/botOn01.gif);
+	width:103px;
+	height:28px;
+	border:0px;
+	cursor:pointer;
+	color: white;
+	font-weight:bolder;
+	line-height:28px;
+}
+.e05_butOn01_pequeno
+{
+	background-image: url(../imagenes/botones/botOn01.gif);
+	background-size: contain;
+	width:95px;
+	height:28px;
+	border:0px;
+	cursor:pointer;
+	color: white;
+	font-weight:bolder;
+	line-height:28px;
+}
+
+.e05_butPlomoOn
+{
+	background-image: url(../imagenes/pub/botGrabar03.gif);
+	width:86px;
+	height:22px;
+	border:0px;
+	color: #000000;
+	z-index:100;
+	line-height:15px;
+	cursor:pointer;
+}
+.e05_butPlomoOff
+{
+	background-image: url(../imagenes/pub/botGrabar03.gif);
+	width:86px;
+	height:22px;
+	border:0px;
+	color: #000000;
+	font-weight:bolder;
+	z-index:100;
+	line-height:15px;
+	cursor:pointer;
+}
+.e05_butPlomo01On
+{
+	background-image: url(../imagenes/pub/botGrabar04.gif);
+	width:153px;
+	height:22px;
+	border:0px;
+	color: #000000;
+	z-index:100;
+	line-height:15px;
+	cursor:pointer;
+}
+.e05_butPlomo01Off
+{
+	background-image: url(../imagenes/pub/botGrabar04.gif);
+	width:153px;
+	height:22px;
+	border:0px;
+	color: #000000;
+	font-weight:bolder;
+	z-index:100;
+	line-height:15px;
+	cursor:pointer;
+}
+/* Fin de Campos de formulario */
+
+/* Mensajes de formulario */
+.e05_panelMensajeError
+{
+	margin:5px auto 5px auto;
+	width:90%;
+	background: url(../imagenes/msjCabeceraKo.gif) repeat-x;
+	border: 1px solid #DD0000;
+	padding:0px 10px 5px 10px;
+	color : #000000;
+	font : normal 1.1em Tahoma, Verdana, sans-serif;
+	overflow:auto;
+	top:10px;
+	position:relative;
+	background-color:#fff;
+}
+.e05_panelMensajeCorrecto
+{
+	margin:5px;
+	width:90%;
+	background: url(../imagenes/msjCabeceraOk.gif) repeat-x;
+	border: 1px solid #226B00;
+	padding:0px 10px 5px 10px;
+	color : #000000;
+	font : normal 1.1em Tahoma, Verdana, sans-serif;
+	overflow:auto;
+	top:10px;
+	position:relative;
+	background-color:#fff;
+}
+.e05_cabeceraMsj
+{
+	color:white;
+	font-weight:bold;
+}
+
+
+.e05_fieldset
+{
+    margin-bottom:2em;
+    padding:18px 21px 18px 22px;
+    font-weight:bold ;
+}
+.e05_divContenedor
+{
+	width:560px; 
+	height:auto;
+}
+.e05_divDetalleIzq
+{
+	float:left;
+	width:270px;
+	height:auto;
+}
+.e05_divDetalleDer
+{
+	float:right;
+	width:260px;
+	height:auto;
+}
+.e05_divDetalleCentro
+{
+    text-align :center;
+	width:260px;
+	height:auto;
+}
+.e05_divDetalleFicha
+{
+    width:628px; 
+    float:left; 
+    text-align:left; 
+    background-color:#f3f3f3; 
+    padding:5px;
+}
+.e01_separadorpunteado
+{
+	position:relative;
+	margin:5px auto 0px auto;
+	color:#000000;
+	line-height:1.2em;
+	border-top:dotted 1px #beb7b1;
+}
+.e01_separadorpunteadoColor
+{
+	position:relative;
+	margin:5px auto 0px auto;
+	color:#000000;
+	line-height:1.2em;
+	border-top:dotted 1px #ff0000;
+}
+.e07_barraHerramientas ul
+{
+    margin:0px;
+    padding:0px;
+    width:900px;
+    border:0px;
+}
+.e07_barraHerramientas ul li
+{
+    width:100px;
+    float:left;
+     line-height:9px;
+}
+.e05_divDesierto
+{
+	width:600px; 
+	margin:0px auto 0px auto; 
+	text-align:center; 
+	border:2px solid #FFA510;
+}
+

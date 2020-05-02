@@ -1,0 +1,41 @@
+body{
+    background-color: rgb(228, 222, 228);
+}
+
+.btn1{
+    background-color: royalblue;
+    padding: 8px;
+    color: white;
+    border: 0px;
+}
+
+.btn2{
+    background-color: silver;
+    padding: 8px;
+    color: white;
+    border: 0px;
+}
+.box{
+    background-color: white;
+    width:auto ;
+    height:200px ;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #ccc;
+    border-radius: 2px;
+    border-top: solid 0px;
+}
+
+p{
+   padding: 8px;
+}
+.texto{
+  
+    padding: 8px;
+    border-top: solid 1px #ccc;
+}
+.btn{
+    border-top: solid 1px #ccc;
+    padding: 8px;
+   
+}
